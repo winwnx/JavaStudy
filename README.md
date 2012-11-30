@@ -1,4 +1,4 @@
 JavaStudy
 =========
 
-JavaStudy
+JavaStudy for personal use
